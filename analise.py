@@ -1,7 +1,6 @@
 import pandas as pd
 
 # 1. Carregar os dados de um arquivo CSV
-# Substitua 'seu_arquivo.csv' pelo caminho ou nome do seu arquivo
 df = pd.read_csv('Libertadores.csv')
 
 # 2. Exibir as primeiras 10 linhas do DataFrame
